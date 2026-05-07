@@ -38,6 +38,9 @@ target/
 # Secrets
 application-local.properties
 .env
+# OS
+.DS_Store
+Thumbs.db
 
 ### VS Code ###
 .vscode/
